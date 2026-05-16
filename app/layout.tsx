@@ -56,7 +56,7 @@ export const metadata: Metadata = {
 
   // 6. Favicon (Logo trên tab trình duyệt)
   icons: {
-    icon: "/logo-sunny-farm.png", // Tương tự, đổi đuôi file nếu cần
+    icon: "/logo-sunny-farm.jpg", // Tương tự, đổi đuôi file nếu cần
   },
 };
 

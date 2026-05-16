@@ -123,7 +123,7 @@ export default function Home() {
             <p>MST: 0318724484 | ĐC: 28E Nguyễn Hữu Cảnh, Phường Thạnh Mỹ Tây, TP.HCM</p>
           </div>
           <div className="text-center md:text-right">
-            <p>Hotline: (Đang cập nhật)</p>
+            <p>Hotline: 0966998598</p>
             <p>© {new Date().getFullYear()} Sunny Farm. All rights reserved.</p>
           </div>
         </div>
